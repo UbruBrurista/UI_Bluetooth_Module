@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ubru Test 1</string>
+    <string name="welcome_screen_text">Ubru UI App: Test 1</string>
+    <string name="arduino_button_text">Send to Arduino</string>
+    <string name="db_button_text">Send to DB</string>
+    <string name="test_button_text">Tap for information on this test</string>
+    <string name="back_button_text">Tap to go back</string>
+    <string name="standard_serial_port_service_ID">94f39d29-7d6d-437d-973b-fba39e49d4ee</string>
+
+</resources>
